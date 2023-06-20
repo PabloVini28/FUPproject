@@ -1,5 +1,5 @@
 # TrabalhoDeFup
-Trabalho de Fundamentos de Programação em C
+Trabalho de Fundamentos de Programação em C feito durante o primeiro semestre.
 
 ## DESENVOLVEDORES :
 
