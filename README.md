@@ -1,19 +1,17 @@
-# TrabalhoDeFup
-Trabalho de Fundamentos de Programação em C feito durante o primeiro semestre.
+# TRABALHO DE FUNDAMENTOS DE PROGRAMAÇÃO 🖥️ 
 
-## DESENVOLVEDORES :
+## DESENVOLVEDORES  👥
 
-    -PABLO VINÍCIOS S.ARAÚJO
+- PABLO VINÍCIOS S.ARAÚJO               [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloVini28)
 
-    -WILLIAM BRITO
+- WILLIAM BRITO                         [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wl11lm)
 
-    -GABRIEL DIAS
+- GABRIEL DIAS
 
 ## DO QUE SE TRATA?
-        O TRABALHO SE TRATA DE UM PROJETO DESENVOLVIDO NO MEU PRIMIERO SEMESTRE DA FACULDADE NA
-        CADEIRA DE FUNDAMENTOS DE PROGRAMAÇÃO A QUAL ENGLOBA TODOS OS FUNDAMENTOS BÁSICOS DA 
-        LINGUAGEM C, DESDE MANIPULAÇÃO DE INTEIROS ATÉ ALOCAÇÃO DINÂMICA E PONTEIROS PARA
-        SIMULAR UMA LOCADORA DE FILMES.
+- O TRABALHO SE TRATA DE UM PROJETO DESENVOLVIDO NO PRIMEIRO SEMESTRE ONDE, NA
+  CADEIRA DE FUNDAMENTOS DE PROGRAMAÇÃO, UMA SIMULAÇÃO DE UMA LOCADORA FOI DESENOLVIDA
+  EM LINGUAGEM C POR MIM E POR MEUS COLEGAS.
 
 ## COMO USAR :
 
