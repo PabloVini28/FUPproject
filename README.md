@@ -2,11 +2,11 @@
 
 ## DESENVOLVEDORES  👥
 
-- PABLO VINÍCIOS S.ARAÚJO               [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloVini28)
-
-- WILLIAM BRITO                         [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wl11lm)
-
-- GABRIEL DIAS
+- PABLO VINÍCIOS S.ARAÚJO [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloVini28)
+             
+- WILLIAM BRITO                      [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wl11lm)
+  
+- GABRIEL DIAS                       [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
 ## DO QUE SE TRATA 📝
 - O TRABALHO SE TRATA DE UM PROJETO DESENVOLVIDO NO PRIMEIRO SEMESTRE ONDE, NA
